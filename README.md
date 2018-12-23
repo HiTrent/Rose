@@ -1,2 +1,1 @@
-#![alt text](Screenshot.png)
-https://user-images.githubusercontent.com/46074546/50382498-b492ac00-06b1-11e9-8673-878bb348c8f1.png
+![screenshot](https://user-images.githubusercontent.com/46074546/50382507-f28fd000-06b1-11e9-9d0d-c563321d397b.png)
